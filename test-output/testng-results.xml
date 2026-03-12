@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-03-11T07:59:58 IST" name="Suite" finished-at="2026-03-11T07:59:58 IST" duration-ms="67">
+    <groups>
+      <group name="smoke">
+        <method signature="DemoTest.bike()[pri:0, instance:Practice.DemoTest@5c5eefef]" name="bike" class="Practice.DemoTest"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2026-03-11T07:59:58 IST" name="Test" finished-at="2026-03-11T07:59:58 IST" duration-ms="67">
+      <class name="Practice.DemoTest">
+        <test-method signature="bike()[pri:0, instance:Practice.DemoTest@5c5eefef]" started-at="2026-03-11T07:59:58 IST" name="bike" finished-at="2026-03-11T07:59:58 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bike -->
+      </class> <!-- Practice.DemoTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
