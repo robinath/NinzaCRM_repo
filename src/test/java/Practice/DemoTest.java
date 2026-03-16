@@ -9,5 +9,6 @@ public class DemoTest
 	public void bike() {
 		System.out.println("---------------RE--------------");
 		System.out.println("---------------MT--------------");
+		System.out.println("---------------GT--------------");
 	}
 }
