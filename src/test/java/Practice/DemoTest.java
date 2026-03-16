@@ -7,6 +7,7 @@ public class DemoTest
 
 	@Test(groups = "smoke")
 	public void bike() {
-		System.out.println("RE");
+		System.out.println("---------------RE--------------");
+		System.out.println("---------------MT--------------");
 	}
 }
