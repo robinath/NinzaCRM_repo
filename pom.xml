@@ -29,7 +29,7 @@
 			        <version>3.5.5</version>
 			        <configuration>
 			          <suiteXmlFiles>
-			            <suiteXmlFile>regressionSuite.xml</suiteXmlFile>
+			            <suiteXmlFile>smoke.xml</suiteXmlFile>
 			          </suiteXmlFiles>
 			        </configuration>
 			      </plugin>
